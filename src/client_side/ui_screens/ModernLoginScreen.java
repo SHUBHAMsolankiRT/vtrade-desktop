@@ -1,15 +1,26 @@
 package client_side.ui_screens;
 
-import client_side.database.DBConnection;
-
-import javax.swing.*;
-import javax.swing.border.EmptyBorder;
-
-import java.awt.*;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.GridLayout;
+import java.awt.HeadlessException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
+import javax.swing.SwingConstants;
+import javax.swing.SwingUtilities;
+import javax.swing.border.EmptyBorder;
+
+import client_side.database.DBConnection;
 
 public class ModernLoginScreen extends JFrame {
     JTextField idField;
