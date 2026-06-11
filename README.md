@@ -13,10 +13,10 @@ Secure Authentication: Isolated user portfolios and virtual cash management usin
 
 ## 🛠️ Tech Stack
 
-1.Frontend: Java Swing, AWT (Dark Mode UI)
-2.Backend: Java (JDK 21)
-3.Database: MySQL (JDBC)
-4.Build Tool: Maven
+1.Frontend: Java Swing, AWT (Dark Mode UI).
+2.Backend: Java (JDK 21).
+3.Database: MySQL (JDBC).
+4.Build Tool: Maven.
 
 ## How to Run This Project
 1. Database Setup: Start your local MySQL server (using XAMPP or MySQL Workbench). Import the database schema from the project folder.
