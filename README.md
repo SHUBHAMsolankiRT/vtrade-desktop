@@ -25,7 +25,8 @@ Build Tool: Maven
 
 ## Screenshots
 1. Secure Login & Demat Account Creation
-![Account Creation](screenshots/signup.png)
+![Account Creation](screenshots/<img width="487" height="517" alt="signup" src="https://github.com/user-attachments/assets/18537e02-dc4f-4b4b-a680-c9700a72e74e" />
+)
 ![Trader Id](screenshots/signup2.png)
 ![Secure Login](screenshots/login.png)
 
