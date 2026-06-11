@@ -24,28 +24,44 @@ Build Tool: Maven
 3. Execution: Navigate to src/client_side/ui_screens/ModernLoginScreen.java and run this file. This is the main entry point of the application.
 
 ## Screenshots
-1. Secure Login & Demat Account Creation
-![Account Creation]<img width="487" height="517" alt="signup" src="https://github.com/user-attachments/assets/18537e02-dc4f-4b4b-a680-c9700a72e74e" />
-)
-![Trader Id] <img width="517" height="497" alt="signup2" src="https://github.com/user-attachments/assets/61f9b39f-1a1a-447c-8acd-c7f902fec9b3" />
+ ##Secure Login & Demat Account Creation
+1. Account Creation
 
-![Secure Login] <img width="497" height="423" alt="login" src="https://github.com/user-attachments/assets/23425baa-2269-4990-80e0-227bfabd6c37" />
+<img width="487" height="517" alt="signup" src="https://github.com/user-attachments/assets/18537e02-dc4f-4b4b-a680-c9700a72e74e" />
+
+2. Trader Id
+
+<img width="517" height="497" alt="signup2" src="https://github.com/user-attachments/assets/61f9b39f-1a1a-447c-8acd-c7f902fec9b3" />
+
+3. Secure Login
+
+<img width="497" height="423" alt="login" src="https://github.com/user-attachments/assets/23425baa-2269-4990-80e0-227bfabd6c37" />
 
 
 ### 2. Main Trading Dashboard & Live Chart
-![Dashboard] <img width="1541" height="978" alt="dashboard" src="https://github.com/user-attachments/assets/6e157ea2-02c3-4433-9d02-5a0c1bbd846e" />
+1. Dashboard
 
-![Live Trading] <img width="1497" height="962" alt="chart" src="https://github.com/user-attachments/assets/25159540-d4f8-4550-85de-e26c559c4b97" />
+<img width="1541" height="978" alt="dashboard" src="https://github.com/user-attachments/assets/6e157ea2-02c3-4433-9d02-5a0c1bbd846e" />
+
+2. Live Trading
+
+<img width="1497" height="962" alt="chart" src="https://github.com/user-attachments/assets/25159540-d4f8-4550-85de-e26c559c4b97" />
 
 
 ### 3. Buy & Sell
-![Buy] <img width="1487" height="960" alt="buy" src="https://github.com/user-attachments/assets/e70b2a7f-5f2e-4ee6-b6aa-d453fb5a141e" />
+1. Buy 
 
-![Sell] <img width="1478" height="955" alt="sell" src="https://github.com/user-attachments/assets/b33b3224-fc8a-499f-adc5-5709be6f1a98" />
+<img width="1487" height="960" alt="buy" src="https://github.com/user-attachments/assets/e70b2a7f-5f2e-4ee6-b6aa-d453fb5a141e" />
+
+2. Sell 
+
+<img width="1478" height="955" alt="sell" src="https://github.com/user-attachments/assets/b33b3224-fc8a-499f-adc5-5709be6f1a98" />
 
 
 ### 3. Smart Ledger & Order History
-![Ledger] <img width="1082" height="605" alt="ledger" src="https://github.com/user-attachments/assets/5ceb054f-d405-47ad-910a-91d4bdc4dc00" />
+1. Ledger
+
+<img width="1082" height="605" alt="ledger" src="https://github.com/user-attachments/assets/5ceb054f-d405-47ad-910a-91d4bdc4dc00" />
 
 
 ### 4. Generated Contract Note
