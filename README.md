@@ -25,23 +25,31 @@ Build Tool: Maven
 
 ## Screenshots
 1. Secure Login & Demat Account Creation
-![Account Creation](screenshots/<img width="487" height="517" alt="signup" src="https://github.com/user-attachments/assets/18537e02-dc4f-4b4b-a680-c9700a72e74e" />
+![Account Creation]<img width="487" height="517" alt="signup" src="https://github.com/user-attachments/assets/18537e02-dc4f-4b4b-a680-c9700a72e74e" />
 )
-![Trader Id](screenshots/signup2.png)
-![Secure Login](screenshots/login.png)
+![Trader Id] <img width="517" height="497" alt="signup2" src="https://github.com/user-attachments/assets/61f9b39f-1a1a-447c-8acd-c7f902fec9b3" />
+
+![Secure Login] <img width="497" height="423" alt="login" src="https://github.com/user-attachments/assets/23425baa-2269-4990-80e0-227bfabd6c37" />
+
 
 ### 2. Main Trading Dashboard & Live Chart
-![Dashboard](screenshots/dashboard.png)
-![Live Trading](screenshots/chart.png)
+![Dashboard] <img width="1541" height="978" alt="dashboard" src="https://github.com/user-attachments/assets/6e157ea2-02c3-4433-9d02-5a0c1bbd846e" />
+
+![Live Trading] <img width="1497" height="962" alt="chart" src="https://github.com/user-attachments/assets/25159540-d4f8-4550-85de-e26c559c4b97" />
+
 
 ### 3. Buy & Sell
-![Buy](screenshots/buy.png)
-![Sell](screenshots/sell.png)
+![Buy] <img width="1487" height="960" alt="buy" src="https://github.com/user-attachments/assets/e70b2a7f-5f2e-4ee6-b6aa-d453fb5a141e" />
+
+![Sell] <img width="1478" height="955" alt="sell" src="https://github.com/user-attachments/assets/b33b3224-fc8a-499f-adc5-5709be6f1a98" />
+
 
 ### 3. Smart Ledger & Order History
-![Ledger](screenshots/ledger.png)
+![Ledger] <img width="1082" height="605" alt="ledger" src="https://github.com/user-attachments/assets/5ceb054f-d405-47ad-910a-91d4bdc4dc00" />
+
 
 ### 4. Generated Contract Note
-![Receipt](screenshots/receipt.png)
+![Receipt] <img width="737" height="751" alt="receipt" src="https://github.com/user-attachments/assets/a1c714b5-d833-47b9-8a9a-0f507fd3a743" />
+
 ---
 Developed by Shubham Solanki
